@@ -19,5 +19,5 @@
 ## Cosmic Config
 
 | Cosmic Config |
-| ------------------- |
-| [Cosmic Config](https://github.com/samwhelp/cosmic-adjustment/tree/main/prototype/main/cosmic-config/Main) |
+| ------------- |
+| [Cosmic Config](https://github.com/samwhelp/cosmic-adjustment/tree/main/prototype/main/cosmic-config/full/Main) |
